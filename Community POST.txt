@@ -1,0 +1,8 @@
+Important Post
+----------------------------
+PDF Generator API    : https://developer.servicenow.com/dev.do#!/reference/api/sandiego/server/sn_pdfgeneratorutils-namespace/PDFGenerationAPIBothAPI%23P-convertToPDFWithHdrFtr_S_S_S_S_O
+ACL                  : https://www.servicenow.com/community/presession?client_id=0oawkyhdomINvSrdm0x7&redirect_uri=https%3A%2F%2Fwww.servicenow.com%2Fcommunity%2Fs%2Fauth%2Foauth2callback%2Fproviderid%2Fbounce&response_type=code&state=fqizuqKE95qumMt0s6vzJnU3SpCmoFsPKCaCEIW1Z3jIDQ6jnpfMtYjk6qx5JqZHghrJEkfh6ffq9ntsHus_iPFwLzTCJyujEW8bYv_LKXBeiKlL57MdipNtaBQ5ApSAmD5yTe6wFR21EZcDgCr9MQU4dZ2ugZGdgftSREBkOKz6sD01QcaWKt3HWVAGQmIlSLMy7Jbr-3jhTYhEryBu6LYRk5KE_tyZ5KcAuorsRL2C9qxaSu8lrcbMk8-t3nI8&scope=openid&referer=https%3A%2F%2Fwww.servicenow.com%2Fcommunity%2Fit-service-management-articles%2Facl%2Fta-p%2F2308303
+GetXML Alertnate     : https://community.servicenow.com/community?id=community_article&sys_id=e37f2072db9fd0103daa1ea6689619c6
+Contains Search      : https://www.servicenow.com/community/developer-forum/how-can-i-do-a-contains-search-on-name-as-well-as-other-fields/m-p/1756990
+Business Rules       : https://www.servicenow.com/community/developer-blog/when-running-business-rules-timing-is-everything/ba-p/2270209
+UIAction CatalogItem : https://www.servicenow.com/community/developer-forum/redirect-from-a-ui-action-to-a-catalog-item-and-set-default/m-p/1436984
